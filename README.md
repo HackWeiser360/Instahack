@@ -30,6 +30,18 @@ $ ./insta.sh
 
 ***
 
+## Where to find us
+<div align="center">
+<a href="https://github.com/HackWeiser360" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/503_madmax" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/madmax4708/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-### Visit our YouTube channel [here](https://youtube.com/channel/UC02OkpTZkxRZCEzFjawf6mA)
-### Follow on [Instagram](https://www.instagram.com/madmax4708/)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=503_madmax)](https://github.com/HackWeiser360/github-readme-twitter)
+
+### Stargazers
+[![Stargazers repo roster for @HackWeiser360/Instahack](https://reporoster.com/stars/HackWeiser360/Instahack)](https://github.com/HackWeiser360/Instahack)
